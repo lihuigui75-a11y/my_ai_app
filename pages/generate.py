@@ -52,7 +52,7 @@ def generate_image_with_openai(prompt, model="dall-e-3", size="1024x1024"):
             prompt=prompt,
             n=1,
             size=size,
-            quality="standard"
+            quality="auto"
         )
         image_url = response.data[0].url
         return image_url
