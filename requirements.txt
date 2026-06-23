@@ -1,3 +1,5 @@
 streamlit
 Pillow
 python-alipay-sdk
+openai
+requests
