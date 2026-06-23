@@ -1,3 +1,0 @@
-streamlit
-Pillow
-python-alipay-sdk
