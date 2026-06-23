@@ -1,7 +1,0 @@
-streamlit
-streamlit-authenticator
-pyyaml
-pillow
-requests
-apscheduler
-pandas
