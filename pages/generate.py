@@ -59,7 +59,6 @@ def text_to_image(prompt, api_model, size="1024x1024", quality="high"):
             prompt=prompt,
             n=1,
             size=size,
-            quality=quality,
             moderation="low",        # 根据API要求添加
             background="auto",
         )
